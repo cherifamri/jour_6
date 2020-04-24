@@ -1,0 +1,197 @@
+.container-fluid{
+    width: 100%;
+    float: left;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1140px;
+    margin:0 auto;
+    padding-top: 100px;
+    
+    
+}
+.col-6{
+    width: 50%;
+    float: left;
+}
+.row{
+    display:flex;
+    width: 100%;
+}
+.col-4{
+    width: 33.33%;
+    display: flex;
+}
+
+
+
+.bg{
+    background: url('../image/image/slider.jpg');
+    background-size: cover;
+    padding-bottom: 250px;
+    
+    
+}
+#nav {
+	padding: 0; margin: 0;
+    /* text-align: center; /* centrer le texte */
+    /* margin-left:430px; */ 
+}
+#nav li {
+	display: inline-block;
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+}
+#nav a {
+	display:inline-block;
+    margin: 0 10px;
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+.nav{
+    display: flex;
+    width: 1140px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+.buy_it {
+    border: 2px solid yellow;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color:yellow;
+    text-shadow: 1px 1px 1px rgb(54, 54, 4);
+    border-radius: 10px;
+    background-color:black;
+    background: transparent;
+}
+.text-header{
+    color:#ffffff;
+    margin-right: 600px;
+    margin-top:290px;
+    margin-left:300px;
+}
+h1{
+    font-family: 'Leckerli One', cursive;
+}
+p{
+    font-family: 'Cambay', sans-serif;
+}
+h2{
+    font-family: 'Cambay', sans-serif;
+}
+
+.Aboutme {
+    border: 2px solid gray;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color:#ffffff;
+    text-shadow: 1px 1px 1px rgb(54, 54, 4);
+    border-radius: 10px;
+    background-color:gray;
+    background: gray;
+}
+.bg_blue{
+    background:#0081ff; 
+
+}
+.col-12{
+    margin:0 auto;
+    background-size: cover;
+}
+#cst-p1{
+    padding: 50px;
+}
+.fab {
+    padding-top: 20px;
+    padding-right: 20px;
+    color: yellow;
+    font-size: 40px;
+    
+}
+.fa{
+    padding-top: 20px;
+    padding-right: 20px;
+    color: yellow;
+    font-size: 40px;
+}
+.fas{
+    padding-top: 20px;
+    padding-right: 20px;
+    color: yellow;
+    font-size: 40px;
+}
+.bg-dark{
+    background: rgb(118, 108, 246);
+}
+.w30{
+    width: 30%;
+    display:flex;
+}
+.w70{
+    width: 70%;
+    display:flex;
+}
+.logo i{
+    color: #ffffff;
+    font-size: 20px;
+    
+}
+.bg_white{
+    background:#ffffff;
+}
+.bg_white .h1{
+    color:gray;
+}
+.cst-font{
+    color:#ffffff;
+}
+.color-blue{
+    color:#0081ff ;
+}
+.d-flex{
+    display: flex;
+}
+.wiewallprojects {
+    border: 2px solid rgb(37, 176, 194);
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color:#ffffff;
+    text-shadow: 1px 1px 1px rgb(54, 54, 4);
+    border-radius: 10px;
+    background-color:rgb(17, 200, 130);
+    background: rgb(14, 173, 126);
+}
+.bg_black{
+    background-image: url('../image/image/bg.png');
+    width:100%
+}
+.text-two{
+    text-align:center;
+    padding-bottom: 70px;
+    color: #ffffff;
+}
+.col-3{
+    width: 25%;
+    
+}
+.image{
+    background-image: url('../image/image/blog04.png');
+    padding-bottom: 325px;
+    color: #ffffff;
+    padding-top: 139px;
+    
+}
+.cadre{
+    background: rgb(53, 53, 233);
+}

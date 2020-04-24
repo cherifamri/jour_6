@@ -1,0 +1,13 @@
+Fonts :
+
+LeckerliOne Regular
+Montserrat Extra Bold
+Cambay Regular (paragraphe)
+
+
+Bleu : 0081ff
+Jaune : ffff00
+Vert : 1cbbb4
+
+Gris Bleu : 8799a3
+Rose : e91d62
